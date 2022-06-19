@@ -1,5 +1,6 @@
 # jammming
-Playlist creator app with Spotify API.
+Playlist creator app with Spotify API.(css and base html designed by codecademy)
+<br>
 Search artists, songs, albums:
 <img width="2048" alt="jammming_search" src="https://user-images.githubusercontent.com/44531434/174463480-6f6b703d-daf1-4100-a166-b8f0a07f1664.png">
 Add songs to playlist:
